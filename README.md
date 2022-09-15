@@ -1,4 +1,5 @@
 # helisub
+[![DOI](https://zenodo.org/badge/487995065.svg)](https://zenodo.org/badge/latestdoi/487995065)
 
 For compiling:  g++ -I. lib/librelion_lib.a lib/librelion_gui_lib.a -o helisub helisub.C lib/librelion_lib.a lib/librelion_gui_lib.a
 
